@@ -1,0 +1,12 @@
+.texto{
+    font-size: 50px;
+    color: blueviolet;
+    font-style: italic;
+}
+.cultar{
+    display: none;
+}
+.fondo{
+    background-color: blue;
+    color: white;
+}
